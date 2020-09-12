@@ -94,11 +94,7 @@ Good luck implementing your game monadically! 🥶
 
 ## how to use the app
 
-Take build/Main.html and drag-and-drop it into a browser window. Or, build it yourself by cloning it and executing:
-
-    elm make src/Main.elm --optimize --output=build/Main.html
-
-in the terminal, given that you've installed elm.
+Go to kagan019.github.io/gambling-sim.
 
 Once the app is open, you will see a lot of numbers, shapes, colors, and no words. Good luck!
 
